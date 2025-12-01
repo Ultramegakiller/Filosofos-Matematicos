@@ -1,0 +1,12 @@
+{
+  "name": "filosofosandmatematicos",
+  "version": "1.0.0",
+  "description": "Site Que Mostra Os Filosofos E Matematicos E Fisicos QUe Contribuiram Para A HUmanidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
